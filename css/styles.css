@@ -183,7 +183,7 @@
         text-align: center  ;
     }
     .sp a:hover{
-        background: #8fc529;
+        background: #a2e427;
     }
     /* Bài tập 5*/
     .red{
@@ -201,5 +201,11 @@
     .vonglap .p2 {
         font-family: Cascadia;
         padding-left: 150px;
+    }
+    /* bài tập 6*/
+    .bt6tieude{
+        text-align: center;
+        color: #4ecc14d7;
+        background-color: white;
     }
     
